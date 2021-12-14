@@ -1,5 +1,5 @@
 # FuselagePaneler
-Python script to generate XML files for SimplePlanes that give you nice paneled tubes.
+Python script to generate XML files for [SimplePlanes](http://www.simpleplanes.com) that give you nice paneled tubes.
 # Usage Instructions
 ___
 NOTE: INSTRUCTIONS BELOW SUPPORTED FOR MACOS ONLY
