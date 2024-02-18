@@ -1,7 +1,7 @@
 # FuselagePaneler
 Python-based application to generate XML files for [SimplePlanes](http://www.simpleplanes.com) that give you nice paneled tubes. Really just a glorified script bundled with pyinstaller.
 # Installation
-Head over to releases and download the latest release to use the app. You may get warnings about the program being a virus, if so, check [this article here and try adding it to the exclusions list.](https://softwarekeep.com/help-center/operation-did-not-complete-successfully-because-the-file-contains-a-virus) Obviously, take precaution against using random programs from people on the internet. 
+Head over to [releases](https://github.com/SnoWFLakE0s/FuselagePaneler/releases) and download the latest release to use the app. You may get warnings about the program being a virus, if so, check [this article here and try adding it to the exclusions list.](https://softwarekeep.com/help-center/operation-did-not-complete-successfully-because-the-file-contains-a-virus) Obviously, take precaution against using random programs from people on the internet. 
 
 You could also download Python yourself and build the program if you'd like.
 
